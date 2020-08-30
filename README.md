@@ -1,4 +1,4 @@
-# python-sample
+# Scrape.do python-sample
 
 <p align="center">
     <img src="https://scrape.do/images/logo.png" alt="scrape.do" width="200">
